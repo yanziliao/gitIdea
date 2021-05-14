@@ -6,4 +6,7 @@ public class GitClass {
         System.out.println("git is free software");
         System.out.println("version contrl system apply to idea");
     }
+    static void sum(int a,int b){
+        System.out.println(a+b);
+    }
 }

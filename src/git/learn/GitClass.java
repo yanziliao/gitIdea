@@ -1,4 +1,4 @@
-package git.learn;
+package src.git.learn;
 
 public class GitClass {
     public static void main(String[] args){
@@ -9,4 +9,5 @@ public class GitClass {
     static void sum(int a,int b){
         System.out.println(a+b);
     }
+
 }
